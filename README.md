@@ -24,6 +24,7 @@ Feel free to use on your design or on discord?
 #### All Of These Are Available To Download Right Now Via The Releases Area.
 # Contribution
 ### You Can Create a issue if you want to contribute by designing new NoobFaces Or suggest a new one!
-### Other than that those are the 2 things you can contribute to Noob Faces.
+### You Can Also Contribute by testing the NoobFaces it self via our test [Discord Server](https://discord.gg/uRD7QAkXwM) (and you can also test unreleased ones!) 
+### Other than that those are the 3 things you can contribute to Noob Faces.
 # License:
 ### Noob Faces Uses The License [CC-BY-SA-4.0](https://duckduckgo.com).
